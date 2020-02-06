@@ -21,17 +21,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sbjr-React-Utils-Components/Dashboard.git"
+    "url": "git+https://github.com/Sbjr-React-Utils-Components-Old/Dashboard.git"
   },
   "author": "Sbibou-Jr <sbibou.jr@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sbjr-React-Utils-Components/Dashboard/issues"
+    "url": "https://github.com/Sbjr-React-Utils-Components-Old/Dashboard/issues"
   },
   "files": [
     "dist"
   ],
-  "homepage": "https://github.com/Sbjr-React-Utils-Components/Dashboard#readme",
+  "homepage": "https://github.com/Sbjr-React-Utils-Components-Old/Dashboard#readme",
   "devDependencies": {
     "@babel/core": "^7.4.4",
     "@babel/preset-env": "^7.4.4",
