@@ -1,4 +1,6 @@
-# Sbjr-React-Utils-Components - Dashboard
+# Sbjr-React-Utils-Components-Old - Dashboard
+
+**Legacy !** [See the new version](https://github.com/SbibouJr/Sbjr-React-Utils-Components/tree/master/packages/dashboard)
 
 **React Dashboard Component.**
 
